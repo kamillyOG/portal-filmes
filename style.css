@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 4%; /* LARGURA */
+}
+
+body{
+    background-color: rgba(200, 200, 200, 0.4);
+}
